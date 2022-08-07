@@ -1,1 +1,3 @@
-
+*.wat
+*.json
+node_modules/
